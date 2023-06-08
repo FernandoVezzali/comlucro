@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcom_lucro=self.webpackChunkcom_lucro||[]).push([[6511],{4469:u=>{u.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);
